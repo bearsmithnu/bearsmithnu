@@ -1,3 +1,4 @@
 ## Hello  !!
 
-it's **HALLOWEEN SEASON** OH YEAH
+i'm **Bear Smith.**
+it's HALLOWEEN SEASON OH YEAH
