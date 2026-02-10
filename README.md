@@ -1,5 +1,5 @@
 ## Hello, I'm Bear.
-My interests CS-wise are systems, networks, cybersecurity, and generally anything low-level enough that you don't think about it until it stops working.
+My interests CS-wise are systems, networks, cybersecurity, and generally anything low-level that people don't think about it until it stops working.
 I appreciate the administration and maintenance of something built well.  
 I have a personal disinterest in generative AI.
 
